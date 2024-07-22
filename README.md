@@ -12,9 +12,9 @@ Spoken Tutorial Courses is an Android application that helps users search for co
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/HomeScreen.jpg" alt="Home Screen" width="300">
-  <img src="screenshots/searchresults.jpg" alt="Search Results" width="300">
-  <img src="screenshots/search_results.jpg" alt="Course Detailed Video" width="300">
+  <img src="screenshots/HomeScreen.jpg" alt="Home Screen" width="200" height="400">
+  <img src="screenshots/searchresults.jpg" alt="Search Results" width="200" height="400">
+  <img src="screenshots/search_results.jpg" alt="Course Detailed Video" width="200" height="400">
 </p>
 
 ## Installation
