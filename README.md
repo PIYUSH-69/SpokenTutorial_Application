@@ -1,6 +1,6 @@
 # Spoken Tutorial Course Finder
 
-Spoken Tutorial Coursesis an Android application that helps users search for courses on specific programming languages available in various regional languages. This application is developed using Kotlin, with the help of the Volley library and YouTube API.
+Spoken Tutorial Courses is an Android application that helps users search for courses on specific programming languages available in various regional languages. This application is developed using Kotlin, with the help of the Volley library and YouTube API.
 
 ## Features
 - Search for programming language courses.
