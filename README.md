@@ -11,7 +11,7 @@ Spoken Tutorial Courses is an Android application that helps users search for co
 
 ## Screenshots
 
-<div style="display: flex; justify-content: space-around;">
+<div align="center">
   <div>
     <h4>Home Screen</h4>
     <img src="screenshots/HomeScreen.jpg" alt="Home Screen" width="300">
