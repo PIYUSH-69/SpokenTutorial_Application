@@ -23,7 +23,7 @@ To get a local copy up and running, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/language-course-finder.git
+   git clone https://github.com/PIYUSH-69/SpokenTutorial_Application.git
 2.Open the project in Android Studio.
 3.Build and run the project on your Android device or emulator.
 
