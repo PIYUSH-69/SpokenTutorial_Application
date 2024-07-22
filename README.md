@@ -27,7 +27,14 @@ To get a local copy up and running, follow these steps:
 2.Open the project in Android Studio.
 3.Build and run the project on your Android device or emulator.
 
+## Reference
+This project was developed using the course from Swayam as a reference.
+
+Course link : https://onlinecourses.swayam2.ac.in/aic20_sp02/course
+
 ## Libraries Used
+
+
 
 Volley - For network requests.
 YouTube API - For fetching and displaying YouTube videos.
