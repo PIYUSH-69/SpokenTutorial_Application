@@ -11,10 +11,10 @@ Spoken Tutorial Courses is an Android application that helps users search for co
 ## Screenshots
 
 ### Home Screen
-![Home Screen](screenshots/home_screen.png)
+![Home Screen](screenshots/HomeScreen.jpg)
 
 ### Search Results
-![Search Results](screenshots/search_results.png)
+![Search Results](screenshots/search_results.jpg)
 
 ### Course Detailed Vedio
 ![Course Details](screenshots/course_details.png)
